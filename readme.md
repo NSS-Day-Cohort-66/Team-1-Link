@@ -1,9 +1,10 @@
 # Link’s Kitchen
+
 <img src="link.jpeg" align="left" width="300px" />
 
 ## Part 1
 
-Link has a bunch of ingredients and he want’s to experiment and see what kinds of meals he can make with them. He knows for sure that when he cooks `Hylian Rice` with a `Big Hearty Truffle` that he gets `Mushroom Rice Balls`, but for some reason he’s not seeing it in his meals…
+Link has a bunch of ingredients and he wants to experiment and see what kinds of meals he can make with them. He knows for sure that when he cooks `Hylian Rice` with a `Big Hearty Truffle` that he gets `Mushroom Rice Balls`, but for some reason he’s not seeing it in his meals…
 
 On his travels, he found some recipes on the walls of the stables he’s visited:
 
