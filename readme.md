@@ -1,4 +1,4 @@
-# Link’s Kitchen
+             # Link’s Kitchen
 
 <img src="link.jpeg" align="left" width="300px" />
 
@@ -14,7 +14,7 @@ On his travels, he found some recipes on the walls of the stables he’s visited
 
 ## Part 2
 
-Link found some more materials in the Tabantha Frontier, he also stopped in Rito village to buy a few items. Add the following items to his materials array:
+Link found some more materials in the Tabantha Frontier, he also stopped in Rito village to buy a few new items. Add the following items to his materials array:
 
 `'Goat Butter', 'Fresh Milk', 'Cane Sugar', 'Raw Bird Thigh'`
 
